@@ -1,6 +1,6 @@
 Hey, I’m Rx.
 
-I’m a developer focused on solving problems and creating systems that work. I enjoy experimenting and finding new ways to make things run smoother.
+I like solving problems and creating systems that work.
 
 What I’m into:
 - AI
@@ -9,9 +9,5 @@ What I’m into:
 
 Recently, I’ve been working on:
 [Pending Project...]
-
-A few things I believe in:
-Quality over quantity: I'd rather build fewer, better things.
-Continuous learning: If you're not improving, you're standing still.
 
 Want to reach me? You’ll figure it out.😁
